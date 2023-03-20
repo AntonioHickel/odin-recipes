@@ -1,0 +1,65 @@
+body {
+    background-color: rgb(50,150,50);
+}
+
+h1 {
+    font-family: "Brush Scrip MT", cursive;
+    color: white;
+    font-size: 54px;
+    text-align: center;
+}
+
+h2 {
+    font-family: "Brush Scrip MT", cursive;
+    color: white;
+    font-size: 24px;
+    text-align: center;
+}
+
+ul {
+    background-color: rgb(210,255,210);
+    color: rgb(50,150,50);
+    font-size: 20px;
+}
+
+ol {
+    background-color: rgb(210,255,210);
+    color: rgb(50,150,50);
+    font-size: 20px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a:link {
+    text-decoration: none;
+    color: rgb(50, 150, 50);
+}
+
+a:visited {
+    text-decoration: none;
+    color: rgb(50, 150, 50);
+}
+
+a:hover {
+    text-decoration: none;
+    color: rgb(50, 150, 50);
+}
+
+a:active {
+    text-decoration: none;
+    color: rgb(50, 150, 50);
+}
+
+button {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+    background-color: rgb(210,255,210);
+    font-weight: 700;
+    text-align:center;
+}
