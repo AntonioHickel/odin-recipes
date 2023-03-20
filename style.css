@@ -16,13 +16,7 @@ h2 {
     text-align: center;
 }
 
-ul {
-    background-color: rgb(210,255,210);
-    color: rgb(50,150,50);
-    font-size: 20px;
-}
-
-ol {
+.list {
     background-color: rgb(210,255,210);
     color: rgb(50,150,50);
     font-size: 20px;
