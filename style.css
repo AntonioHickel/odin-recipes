@@ -12,7 +12,7 @@ h1 {
 h2 {
     font-family: "Brush Scrip MT", cursive;
     color: white;
-    font-size: 24px;
+    font-size: 36px;
     text-align: center;
 }
 
@@ -53,6 +53,7 @@ button {
     margin-left: auto;
     margin-right: auto;
     color: white;
+    font-size: 36px;
     background-color: rgb(210,255,210);
     font-weight: 700;
     text-align:center;
